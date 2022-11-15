@@ -1,19 +1,19 @@
 # Bienvenue sur mon profil Github 👋
 
-Ahoy à vous je m'appelle __Robin Ramel__, passionné de voyages :airplane:, de photo :camera: et d'art :pencil2:
+Ahoy à vous je m'appelle __Robin Ramel__ et je suis __Développeur front__ depuis __2ans__.
 
+Mes expériences passées (depuis mon alternance jusqu'à mon dernier poste en agence de communication) m'ont permis d'acquérir des compétences solides dans mon domaine.
 
-__Développeur front__ depuis __2ans__, j'ai pu acquérir mes comptétences à travers des experiences diverses et variées allant de l'alternance a l'experience à l'agence de communication, dans les quelles j'ai pu acquérir de bases solides.
+Souhaitant me professionnaliser dans le développement d'applications web, je me suis tourné vers les frameworks __JS__ et particulièrement __React__ et son environnement, que j'ai découvert à travers 
+ à une formation intensive d'un mois (O'clock).
 
-Je me suis ensuite tourné vers les frameworks __JS__.
-j'ai découvert a travers une formation __React__ et son environnement.
-Suite à cette formation il fallait que je pratique et c'est comme ca qu'est né mon application de météo MyWeatherApp (original non ? )
+ Suite à cela, et comme pratiquer est toujours le meilleur moyen de valider ses acquis, j'ai conçu mon application de météo MyWeatherApp full React (original non ? )
 - [Repo My-weather-app](https://github.com/RobinRamel/my-weather-app)
 
-Je recherche aujourd'hui à contribuer à des projets __challengeant__ qui sauront me faire grandir en tant que développeur,
-pouvoir créer les outils et applications amenées a résoudre des situations ou à amener plus de facilités dans nos vies de tous les jours, c'est ce qui m'anime et qui me fait aimer ce metier. 
+Je cherche aujourd'hui à participer à des projets __challengeants__ qui sauront me faire évoluer en tant que développeur.
+Créer les outils et applications permettant de résoudre des situations, amener plus de facilités dans notre quotidient, voila ce qui m'anime et me fait aimer ce métier.
 
-Si vous voulez en savoir un peu plus sur mon profil techniques ca se passe par ici :point_down:
+Si vous voulez en savoir un peu plus sur mon profil technique ca se passe par ici :point_down:
 
 ## Technologies principales
 
@@ -42,7 +42,7 @@ Si vous voulez en savoir un peu plus sur mon profil techniques ca se passe par i
 ![typescript logo](https://img.shields.io/badge/-Typescript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![threejs logo](https://img.shields.io/badge/-Three.js-000000?style=flat-square&logo=threedotjs&logoColor=white)
 
-## Mes Reseaux
+## Mes Réseaux
 
 [![Linkedin link](https://img.shields.io/badge/-Linkedin-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/robin-ramel/)
 [![Github link](https://img.shields.io/badge/-Github-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/RobinRamel)
