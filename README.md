@@ -1,17 +1,17 @@
 # Bienvenue sur mon profil Github 👋
 
-Ahoy à vous je m'appelle __Robin Ramel__ et je suis __Développeur front__ depuis __2ans__.
+Ahoy à vous !
+Je m'appelle __Robin Ramel__ et je suis __Développeur front__ depuis __2ans__.
 
-Mes expériences passées (depuis mon alternance jusqu'à mon dernier poste en agence de communication) m'ont permis d'acquérir des compétences solides dans mon domaine.
+Mes expériences passées (depuis ma première formation jusqu'à mon dernier poste en agence de communication) m'ont permis d'acquérir des compétences solides dans mon domaine.
 
-Souhaitant me professionnaliser dans le développement d'applications web, je me suis tourné vers les frameworks __JS__ et particulièrement __React__ et son environnement, que j'ai découvert à travers 
- à une formation intensive d'un mois (O'clock).
+Souhaitant me professionnaliser dans le développement d'applications web, je me suis tourné vers les frameworks __JS__ et particulièrement __React__ et son environnement, que j'ai découvert à travers une formation intensive d'un mois (O'clock).
 
  Suite à cela, et comme pratiquer est toujours le meilleur moyen de valider ses acquis, j'ai conçu mon application de météo MyWeatherApp full React (original non ? )
 - [Repo My-weather-app](https://github.com/RobinRamel/my-weather-app)
 
 Je cherche aujourd'hui à participer à des projets __challengeants__ qui sauront me faire évoluer en tant que développeur.
-Créer les outils et applications permettant de résoudre des situations, amener plus de facilités dans notre quotidient, voila ce qui m'anime et me fait aimer ce métier.
+Créer les outils et applications permettant de résoudre des situations, amener plus de facilités dans notre quotidien, voila ce qui m'anime et me fait aimer ce métier.
 
 Si vous voulez en savoir un peu plus sur mon profil technique ca se passe par ici :point_down:
 
