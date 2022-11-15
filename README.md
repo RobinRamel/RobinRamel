@@ -1,12 +1,16 @@
 # Bienvenue sur mon profil Github 👋
 
-Ahoy a vous je m'appelle Robin Ramel,
-Développeur front depuis 2ans, j'ai pu acquérir mes experiences a travers des experiences diverses et variés allant de l'alternance a l'experience en Agence de communication, dans les quelles j'ai pu acquérir de bases solides.
+Ahoy à vous je m'appelle __Robin Ramel__, passionné de voyages :airplane:, de photo :camera: et d'art :pencil2:
 
-Je me suis ensuite tourné vers les frameworks JS, que j'ai découvert a travers une formation.
+
+__Développeur front__ depuis __2ans__, j'ai pu acquérir mes comptétences à travers des experiences diverses et variées allant de l'alternance a l'experience à l'agence de communication, dans les quelles j'ai pu acquérir de bases solides.
+
+Je me suis ensuite tourné vers les frameworks __JS__.
+j'ai découvert a travers une formation __React__ et son environnement.
 Suite à cette formation il fallait que je pratique et c'est comme ca qu'est né mon application de météo MyWeatherApp (original non ? )
+- [Repo My-weather-app](https://github.com/RobinRamel/my-weather-app)
 
-Je recherche aujourd'hui à contribuer à des projets challengeant qui sauront me faire grandir en tant que développeur,
+Je recherche aujourd'hui à contribuer à des projets __challengeant__ qui sauront me faire grandir en tant que développeur,
 pouvoir créer les outils et applications amenées a résoudre des situations ou à amener plus de facilités dans nos vies de tous les jours, c'est ce qui m'anime et qui me fait aimer ce metier. 
 
 Si vous voulez en savoir un peu plus sur mon profil techniques ca se passe par ici :point_down:
