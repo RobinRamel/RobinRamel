@@ -16,7 +16,27 @@ Créer les outils et applications permettant de résoudre des situations, amener
 
 Si vous voulez en savoir un peu plus sur mon profil technique ca se passe par ici :point_down:
 
-## Technologies principales
+---
+
+# Welcome to my Github profile 👋
+
+Ahoy there!
+
+My name is Robin Ramel and I have been a Front-end Developer for 3 years.
+
+My past experiences (from my first training to my last position in a communication agency) have allowed me to acquire strong skills in my field.
+
+Wanting to specialize in web application development, I turned to JS frameworks, particularly React and its environment, which I discovered through an intensive one-month training (O'clock).
+
+Following this, and as practicing is always the best way to validate one's knowledge, I designed my weather application, MyWeatherApp, full React (original, isn't it?)
+- [Repo My-weather-app](https://github.com/RobinRamel/my-weather-app)
+
+Today, I am looking to participate in challenging projects that will allow me to evolve as a developer. Creating tools and applications that solve problems and bring more ease to our daily lives is what drives me and makes me love this profession.
+
+If you want to learn a little more about my technical profile, it's all right here :point_down:
+
+
+## Technologies principales / Main Technologies
 
 ![react logo](https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white)
 ![redux logo](https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
@@ -31,6 +51,7 @@ Si vous voulez en savoir un peu plus sur mon profil technique ca se passe par ic
 ![yarn logo](https://img.shields.io/badge/-Yarn-2C8EBB?style=flat-square&logo=yarn&logoColor=white)
 ![gsap logo](https://img.shields.io/badge/-GSAP-88CE02?style=flat-square&logo=greensock&logoColor=white)
 ![webpack logo](https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=white)
+![typescript logo](https://img.shields.io/badge/-Typescript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 
 ## Notions
 
@@ -38,12 +59,11 @@ Si vous voulez en savoir un peu plus sur mon profil technique ca se passe par ic
 ![node logo](https://img.shields.io/badge/-Node-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![vue logo](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
 
-## Sur la liste d'apprentissage
+## Sur la liste d'apprentissage / on the list
 
-![typescript logo](https://img.shields.io/badge/-Typescript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![threejs logo](https://img.shields.io/badge/-Three.js-000000?style=flat-square&logo=threedotjs&logoColor=white)
 
-## Mes Réseaux
+## Mes Réseaux / My Socials
 
 [![Linkedin link](https://img.shields.io/badge/-Linkedin-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/robin-ramel/)
 [![Github link](https://img.shields.io/badge/-Github-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/RobinRamel)
